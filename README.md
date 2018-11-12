@@ -20,18 +20,18 @@ Implements of kind of design patterns:
       - Hendle reciving and sending massages to users
   ### StringProducer
     Interface provide producer methods
-  ## StringConsumer
+  ### StringConsumer
     Interface provide consumer methods
       - Inform() send notification to producer
       - consume() ask for service from producer
-  ## ConnectionProxy
+  ### ConnectionProxy
     Insulation layer that promise the server and the client will not corrupted 
-  ## ClientDescriptor 
+  ### ClientDescriptor 
     Holds user name
       - When user send message - his name attached to the message
-  ## System Sketch
+## System Sketch
   ![system diagram](https://i.imagesup.co/images2/0__05be9ac41d2a53.jpg)
   
-  ## Project status
-    Done
+## Project status
+  Done
   
