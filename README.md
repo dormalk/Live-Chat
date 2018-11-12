@@ -6,3 +6,4 @@ Implements of kind of design patterns:
 - Proxy - Mediate between server and client
 
 The chat can connect between more then two clients, evrey one with uniqe user name
+The chat works only on localhost
