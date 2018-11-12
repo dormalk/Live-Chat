@@ -29,3 +29,9 @@ Implements of kind of design patterns:
   ## ClientDescriptor 
     Holds user name
       - When user send message - his name attached to the message
+  ## System Sketch
+  ![system diagram](https://i.imagesup.co/images2/0__05be9ac41d2a53.jpg)
+  
+  ## Project status
+    Done
+  
